@@ -1,0 +1,27 @@
+{
+  "name": "mern-crud-auth",
+  "version": "1.0.0",
+  "description": "Un crud con mongo express react node",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "Andres Lopez",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.14.1",
+    "morgan": "^1.10.0",
+    "zod": "^3.24.4"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.5.0"
+  }
+}
