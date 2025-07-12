@@ -14,5 +14,6 @@ cd ..
 npm start
 ```
 
-> Necesita tener una base de datos Mongodb ejecutándose
+<hr>
+> Necesita tener una base de datos Mongodb ejecutándose <br>
 > Debe renombar el archivo .env.example por .env y editar las variables de entorno.
